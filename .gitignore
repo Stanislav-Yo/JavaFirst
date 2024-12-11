@@ -1,4 +1,4 @@
 out/
 private/
-.iml/
-.idea/
+*.iml/
+*.idea/
